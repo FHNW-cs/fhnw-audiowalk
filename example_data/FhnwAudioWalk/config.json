@@ -1,0 +1,9 @@
+{
+  "oscEnabled": true,
+  "oscLocalPort": 9001,
+  "pdEnabled": true,
+  "sensorsEnabled": false,
+  "rawSensorsToOsc": false,
+  "rawSensorsToPd": false,
+  "displayPosition": false
+}

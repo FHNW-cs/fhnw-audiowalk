@@ -1,0 +1,20 @@
+{
+  "localities": [
+    {
+      "id": 1,
+      "name": "Example Room",
+      "ssid": "example-room",
+      "pdPatcherName": "example.pd",
+      "maxmsp": {
+        "address": "192.168.1.100",
+        "port": 9001
+      },
+      "grid": {
+        "xmin": 0.0,
+        "xmax": 20.0,
+        "ymin": 0.0,
+        "ymax": 10.0
+      }
+    }
+  ]
+}

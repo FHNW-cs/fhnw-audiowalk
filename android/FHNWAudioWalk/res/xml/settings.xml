@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <PreferenceCategory android:title="@string/cat_communication" android:key="@string/pref_cat_communication">
+        
+        <EditTextPreference
+            android:key="@string/pref_device_nr"
+            android:summary="@string/sum_device_nr"
+            android:title="@string/title_device_nr"
+            android:numeric="integer"
+            android:defaultValue="1"
+            />
+        
+    </PreferenceCategory>
+
+</PreferenceScreen>
