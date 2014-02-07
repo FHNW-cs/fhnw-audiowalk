@@ -1,7 +1,14 @@
 *.o
 PdCore/jni/libpd/pure-data/src/libpdnative.so
 PdCore/jni/libpd/pure-data/src/libpd.so
+*.apk
+*.ap_
+*.dex
+*.class
+.gradle/
+build/
 bin
 gen
 obj
 local.properties
+proguard/
